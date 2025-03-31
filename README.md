@@ -15,4 +15,4 @@
 <img align="center" alt="php" src= "https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> 
 </div></br>
 
-#### every project is a chance to make a difference!
+#### Every project is a chance to make a difference!
