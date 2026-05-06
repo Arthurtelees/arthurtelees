@@ -2,6 +2,7 @@
 
 [![LinkdIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-teles-179145202/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthur_teless/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-f70b0b?style=for-the-badge&logo=todoist&logoColor=white)](https://arthur-teles.vercel.app/)
 
 
 ## Tecnologias do meu dia a dia
